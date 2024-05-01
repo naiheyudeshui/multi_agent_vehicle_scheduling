@@ -1,0 +1,138 @@
+<additional>
+    <vType id="Electric_10000" accel="1.0" decel="1.0" length="5" maxSpeed="100.0" sigma="0.0" minGap="2.5" color="255,0,0">
+        <param key="has.battery.device" value="true"/>
+        <param key="has.taxi.device" value="true"/>
+        <param key="device.taxi.idle-algorithm" value="randomCircling"/>
+
+        <param key="device.battery.capacity" value="30000"/>
+        <param key="maximumPower" value="1000"/>
+        <param key="vehicleMass" value="10000"/>
+        <param key="frontSurfaceArea" value="5"/>
+        <param key="airDragCoefficient" value="0.6"/>
+        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="radialDragCoefficient" value="0.5"/>
+        <param key="rollDragCoefficient" value="0.01"/>
+        <param key="constantPowerIntake" value="100"/>
+        <param key="propulsionEfficiency" value="0.9"/>
+        <param key="recuperationEfficiency" value="0.4"/>
+        <param key="stoppingThreshold" value="0.1"/>
+        <param key="device.battery.chargeLevel" value="10000"/>
+    </vType>
+    <vType id="Electric_9000" accel="1.0" decel="1.0" length="5" maxSpeed="100.0" sigma="0.0" minGap="2.5" color="0, 255, 0">
+        <param key="has.battery.device" value="true"/>
+        <param key="has.taxi.device" value="true"/>
+        <param key="device.taxi.idle-algorithm" value="randomCircling"/>
+
+        <param key="device.battery.capacity" value="40000"/>
+        <param key="maximumPower" value="1000"/>
+        <param key="vehicleMass" value="10000"/>
+        <param key="frontSurfaceArea" value="5"/>
+        <param key="airDragCoefficient" value="0.6"/>
+        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="radialDragCoefficient" value="0.5"/>
+        <param key="rollDragCoefficient" value="0.01"/>
+        <param key="constantPowerIntake" value="100"/>
+        <param key="propulsionEfficiency" value="0.9"/>
+        <param key="recuperationEfficiency" value="0.4"/>
+        <param key="stoppingThreshold" value="0.1"/>
+        <param key="device.battery.chargeLevel" value="9000"/>
+    </vType>
+        <vType id="Electric_8000" accel="1.0" decel="1.0" length="5" maxSpeed="100.0" sigma="0.0" minGap="2.5" color="0, 0, 255">
+        <param key="has.battery.device" value="true"/>
+            <param key="has.taxi.device" value="true"/>
+        <param key="device.taxi.idle-algorithm" value="randomCircling"/>
+
+        <param key="device.battery.capacity" value="30000"/>
+        <param key="maximumPower" value="1000"/>
+        <param key="vehicleMass" value="10000"/>
+        <param key="frontSurfaceArea" value="5"/>
+        <param key="airDragCoefficient" value="0.6"/>
+        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="radialDragCoefficient" value="0.5"/>
+        <param key="rollDragCoefficient" value="0.01"/>
+        <param key="constantPowerIntake" value="100"/>
+        <param key="propulsionEfficiency" value="0.9"/>
+        <param key="recuperationEfficiency" value="0.4"/>
+        <param key="stoppingThreshold" value="0.1"/>
+        <param key="device.battery.chargeLevel" value="8000"/>
+
+    </vType>
+        <vType id="Electric_7000" accel="1.0" decel="1.0" length="5" maxSpeed="100.0" sigma="0.0" minGap="2.5" color="255, 255, 0">
+        <param key="has.battery.device" value="true"/>
+        <param key="has.taxi.device" value="true"/>
+        <param key="device.taxi.idle-algorithm" value="randomCircling"/>
+
+        <param key="device.battery.capacity" value="30000"/>
+        <param key="maximumPower" value="1000"/>
+        <param key="vehicleMass" value="10000"/>
+        <param key="frontSurfaceArea" value="5"/>
+        <param key="airDragCoefficient" value="0.6"/>
+        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="radialDragCoefficient" value="0.5"/>
+        <param key="rollDragCoefficient" value="0.01"/>
+        <param key="constantPowerIntake" value="100"/>
+        <param key="propulsionEfficiency" value="0.9"/>
+        <param key="recuperationEfficiency" value="0.4"/>
+        <param key="stoppingThreshold" value="0.1"/>
+        <param key="device.battery.chargeLevel" value="7000"/>
+    </vType>
+        <vType id="Electric_6000" accel="1.0" decel="1.0" length="5" maxSpeed="100.0" sigma="0.0" minGap="2.5" color="128, 0, 128">
+        <param key="has.battery.device" value="true"/>
+        <param key="has.taxi.device" value="true"/>
+        <param key="device.taxi.idle-algorithm" value="randomCircling"/>
+
+        <param key="device.battery.capacity" value="30000"/>
+        <param key="maximumPower" value="1000"/>
+        <param key="vehicleMass" value="10000"/>
+        <param key="frontSurfaceArea" value="5"/>
+        <param key="airDragCoefficient" value="0.6"/>
+        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="radialDragCoefficient" value="0.5"/>
+        <param key="rollDragCoefficient" value="0.01"/>
+        <param key="constantPowerIntake" value="100"/>
+        <param key="propulsionEfficiency" value="0.9"/>
+        <param key="recuperationEfficiency" value="0.4"/>
+        <param key="stoppingThreshold" value="0.1"/>
+        <param key="device.battery.chargeLevel" value="6000"/>
+    </vType>
+        <vType id="Electric_5000" accel="1.0" decel="1.0" length="5" maxSpeed="100.0" sigma="0.0" minGap="2.5" color="128, 0, 128">
+        <param key="has.battery.device" value="true"/>
+        <param key="has.taxi.device" value="true"/>
+        <param key="device.taxi.idle-algorithm" value="randomCircling"/>
+
+        <param key="device.battery.capacity" value="30000"/>
+        <param key="maximumPower" value="1000"/>
+        <param key="vehicleMass" value="10000"/>
+        <param key="frontSurfaceArea" value="5"/>
+        <param key="airDragCoefficient" value="0.6"/>
+        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="radialDragCoefficient" value="0.5"/>
+        <param key="rollDragCoefficient" value="0.01"/>
+        <param key="constantPowerIntake" value="100"/>
+        <param key="propulsionEfficiency" value="0.9"/>
+        <param key="recuperationEfficiency" value="0.4"/>
+        <param key="stoppingThreshold" value="0.1"/>
+        <param key="device.battery.chargeLevel" value="5000"/>
+    </vType>
+        <vType id="Electric_4000" accel="1.0" decel="1.0" length="5" maxSpeed="100.0" sigma="0.0" minGap="2.5" color="128, 0, 128">
+        <param key="has.battery.device" value="true"/>
+        <param key="has.taxi.device" value="true"/>
+        <param key="device.taxi.idle-algorithm" value="randomCircling"/>
+
+        <param key="device.battery.capacity" value="30000"/>
+        <param key="maximumPower" value="1000"/>
+        <param key="vehicleMass" value="10000"/>
+        <param key="frontSurfaceArea" value="5"/>
+        <param key="airDragCoefficient" value="0.6"/>
+        <param key="internalMomentOfInertia" value="0.01"/>
+        <param key="radialDragCoefficient" value="0.5"/>
+        <param key="rollDragCoefficient" value="0.01"/>
+        <param key="constantPowerIntake" value="100"/>
+        <param key="propulsionEfficiency" value="0.9"/>
+        <param key="recuperationEfficiency" value="0.4"/>
+        <param key="stoppingThreshold" value="0.1"/>
+        <param key="device.battery.chargeLevel" value="4000"/>
+    </vType>
+
+    <vTypeDistribution id="typedist1" vTypes="Electric_7000 Electric_6000 Electric_5000 Electric_4000 Electric_8000 Electric_9000 Electric_10000"/>
+</additional>

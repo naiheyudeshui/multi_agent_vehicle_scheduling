@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-07-26 23:21:59 by Eclipse SUMO netedit Version 1.18.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <chargingStation id="cS_-E100" lane="-E100_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E110" lane="-E110_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E111" lane="-E111_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E112" lane="-E112_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E113" lane="-E113_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E114" lane="-E114_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E55" lane="-E55_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E57" lane="-E57_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E59" lane="-E59_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E61" lane="-E61_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E63" lane="-E63_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E67" lane="-E67_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E69" lane="-E69_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E71" lane="-E71_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E73" lane="-E73_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E75" lane="-E75_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E80" lane="-E80_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E82" lane="-E82_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E84" lane="-E84_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E86" lane="-E86_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E87" lane="-E87_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E96" lane="-E96_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E97" lane="-E97_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E98" lane="-E98_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+    <chargingStation id="cS_-E99" lane="-E99_0" power="200000.00" chargeDelay="8" startPos="8" endPos="15"/>
+
+
+
+</additional>
